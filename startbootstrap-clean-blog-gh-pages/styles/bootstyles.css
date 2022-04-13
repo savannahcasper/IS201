@@ -1,0 +1,50 @@
+
+
+body {
+   background-image: url('../images/green.png');
+   }
+ p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{ 
+    text-align: center;
+    color: black;
+font-size: x-large;
+font-weight: 400;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.navigation { 
+    text-align: right;
+    font-size: medium;
+    font-family:sans-serif;
+}
+.caption{
+    font-size: medium;
+    font-style: italic;
+}
+.tableau {
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width: 100%;
+    height:auto;
+    margin-bottom:60px;
+  }
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+ }
+ .copywright {
+     font-style: italic;
+ }
