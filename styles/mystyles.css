@@ -1,0 +1,34 @@
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{ 
+    text-align: center;
+    color: hotpink;
+    border: 5px solid blueviolet;
+    padding: 10px;
+    margin: 20px;
+ }
+ h1{
+    color: hotpink;
+    font-size: medium;
+ }
+ body{
+     background-color: rgb(255, 215, 235);
+ }
+.subheading{
+    font-weight: bolder;
+}
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    size: 400px;
+  }
+  .link {
+      text-decoration: underline;
+  }
+  img {
+      size:50%;
+  }
+  
